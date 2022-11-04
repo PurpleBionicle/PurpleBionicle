@@ -6,7 +6,7 @@
 on an elliptic curve
 </br>
 
-2. [Zero knowledge proof](https://github.com/88888812/vacancies_analysis) - Django project using weather API, exchange rates API and job market API
+2. [Vacancies analysis](https://github.com/88888812/vacancies_analysis) - Django project using weather API, exchange rates API and job market API
 </br>
 
 3. [Algorithms](https://github.com/88888812/algorithms) - Substring search and sort algorithms
