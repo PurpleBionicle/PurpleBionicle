@@ -24,6 +24,7 @@ on an elliptic curve
 </br>
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 5. [Graphics](https://github.com/88888812/computer_graphics) - University course in low-level computer graphics.
 </br>
