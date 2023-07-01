@@ -9,16 +9,29 @@
 </br>
 
 <h3> Технический стэк </h3>
-</br> 
+<h4> Операционные системы </h4>
+</br> Основными системами являются, конечно, Windows и Ubuntu.
+
+![винда](pics/microsoft-64x64.png)
+![ubuntu](pics/ubuntu.png)
+
+Кроме этого имею опыт работы с Kali и Astra. Все из них имеют свои плюсы и хорошо справляются с возложенными на них задачами.
+Так, например, на Kali я работал с metasploit-ом и другими встроенными пентестерскими утилитами.
+А Астра единственная имеет функцию замкнутой программной среды.
+Это позволяет лучше следить за контролем целостности каких-либо продуктов для исключения возникновений криптографически опасных ситуаций.
+</br>
+![kali](pics/Kali-Linux-2020.4.webp)
+![astra](pics/Astra_Linux.png)
+</br>
+
+<h4> Языки программирования</h4>
+
+Тут как у всех - питончик  
+![python](pics/pycharm.png)
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88888812&hide=makefile&langs_count=10&theme=transparent&exclude_repo=lab-02-condition-loop,lab04_new_hope,lab05,lab06,lab07,lab08,lab09,)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-
-<h3>OS:</h3>
-
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 <h3>Tools: </h3>
