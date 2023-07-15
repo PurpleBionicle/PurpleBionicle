@@ -12,7 +12,9 @@
 <h3> Технический стэк </h3>
 <h3> Языки программирования</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88888812&hide=makefile&langs_count=10&theme=transparent&exclude_repo=lab-02-condition-loop,lab04_new_hope,lab05,lab06,lab07,lab08,lab09,)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88888812&layout=compact&hide=makefile&langs_count=10&theme=transparent)
+
 </br>
 
 Тут как у всех - Python. Решает все мои хотелки:
