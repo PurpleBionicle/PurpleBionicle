@@ -6,14 +6,18 @@
 😁
 </br>
 
-![Nikita Pushkin](https://github-readme-stats.vercel.app/api?username=PurpleBionicle&theme=transparent&show_icons=true)
+[//]: # "![Nikita Pushkin](https://github-readme-stats.vercel.app/api?username=PurpleBionicle&theme=transparent&show_icons=true)"
+
+
+![Nikita Pushkin](https://awesome-github-stats.azurewebsites.net/user-stats/PurpleBionicle?cardType=github&theme=dark&preferLogin=true)
+
 </br>
 
 <h3> Технический стэк </h3>
 <h3> Языки программирования</h3>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleBionicle&layout=compact&hide=makefile&langs_count=10&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleBionicle&layout=compact&hide=makefile,jupyter%20notebook&langs_count=10&theme=transparent)
 
 </br>
 
